@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Vítor/Desktop/ip3d_f3/Content/bullet.fbx","C:/Users/Vítor/Desktop/ip3d_f3/Content/bin/Windows/bullet.xnb","ModelProcessor","ModelContent",29500,9062,0,3151074
+"C:/Users/Vítor/Desktop/ip3d_f3/Content/cobble.jpg","C:/Users/Vítor/Desktop/ip3d_f3/Content/bin/Windows/cobble.xnb","TextureProcessor","Texture2DContent",301003,2999909,0,1668002
+"C:/Users/Vítor/Desktop/ip3d_f3/Content/dirtTerrain.png","C:/Users/Vítor/Desktop/ip3d_f3/Content/bin/Windows/dirtTerrain.xnb","TextureProcessor","Texture2DContent",449581,2664085,0,0996179
+"C:/Users/Vítor/Desktop/ip3d_f3/Content/dust.fbx","C:/Users/Vítor/Desktop/ip3d_f3/Content/bin/Windows/dust.xnb","ModelProcessor","ModelContent",28524,9062,0,0068109
+"C:/Users/Vítor/Desktop/ip3d_f3/Content/lh3d1.jpg","C:/Users/Vítor/Desktop/ip3d_f3/Content/bin/Windows/lh3d1.xnb","TextureProcessor","Texture2DContent",6740,65621,0,0066467

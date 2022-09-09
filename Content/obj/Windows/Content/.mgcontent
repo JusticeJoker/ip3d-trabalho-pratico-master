@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/gonro/Desktop/IP3D Final/ip2d-trabalho-pratico-master/Content/bullet.fbx</File>
+    <File>C:/Users/gonro/Desktop/IP3D Final/ip2d-trabalho-pratico-master/Content/cobble.jpg</File>
+    <File>C:/Users/gonro/Desktop/IP3D Final/ip2d-trabalho-pratico-master/Content/dirtTerrain.png</File>
+    <File>C:/Users/gonro/Desktop/IP3D Final/ip2d-trabalho-pratico-master/Content/dust.fbx</File>
+    <File>C:/Users/gonro/Desktop/IP3D Final/ip2d-trabalho-pratico-master/Content/lh3d1.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

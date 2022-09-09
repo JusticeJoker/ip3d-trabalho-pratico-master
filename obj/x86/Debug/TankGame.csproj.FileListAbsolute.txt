@@ -1,0 +1,82 @@
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\Content\cobble.xnb
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\Content\dirtTerrain.xnb
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\Content\lh3d1.xnb
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\Trabalho_Final.exe
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\Trabalho_Final.pdb
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\obj\x86\Debug\TankGame.csprojAssemblyReference.cache
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\obj\x86\Debug\TankGame.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\obj\x86\Debug\TankGame.csproj.CopyComplete
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\obj\x86\Debug\Trabalho_Final.exe
+C:\Users\Vítor\Desktop\DocsJoao\IP3D\TP\código\obj\x86\Debug\Trabalho_Final.pdb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Content\cobble.xnb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Content\dirtTerrain.xnb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Content\lh3d1.xnb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Trabalho_Final.exe
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Trabalho_Final.pdb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Vítor\Desktop\ip3d_f3\obj\x86\Debug\TankGame.csprojAssemblyReference.cache
+C:\Users\Vítor\Desktop\ip3d_f3\obj\x86\Debug\TankGame.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Desktop\ip3d_f3\obj\x86\Debug\TankGame.csproj.CopyComplete
+C:\Users\Vítor\Desktop\ip3d_f3\obj\x86\Debug\Trabalho_Final.exe
+C:\Users\Vítor\Desktop\ip3d_f3\obj\x86\Debug\Trabalho_Final.pdb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Content\dust.xnb
+C:\Users\Vítor\Desktop\ip3d_f3\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Content\cobble.xnb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Content\dirtTerrain.xnb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Content\dust.xnb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Content\lh3d1.xnb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Trabalho_Final.exe
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\Trabalho_Final.pdb
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\obj\x86\Debug\TankGame.csprojAssemblyReference.cache
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\obj\x86\Debug\TankGame.csproj.CoreCompileInputs.cache
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\obj\x86\Debug\TankGame.csproj.CopyComplete
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\obj\x86\Debug\Trabalho_Final.exe
+C:\Users\gonro\Desktop\IP3D Final\ip2d-trabalho-pratico-master\obj\x86\Debug\Trabalho_Final.pdb
